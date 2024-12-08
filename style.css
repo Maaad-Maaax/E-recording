@@ -1,0 +1,179 @@
+body {
+	margin: 0;
+}
+
+header {
+	width: 100%;
+	padding: 0;
+	padding-bottom: 20px;
+}
+
+.top_image {
+	background-image: url(image/fon.jpg);
+	width: 1024px;
+	height: 289px;
+	margin: auto;
+}
+
+h1 {
+	text-align: center;
+}
+
+.menu {
+	background: #B6D0F7;
+	text-align: center;
+	height: 20px;
+	padding: 10px;
+}
+
+.menu a {
+	color: azure;
+	text-decoration: inherit;
+	margin: 20px;
+}
+
+.menu a:hover {
+	color: #00ABFF;
+}
+
+.content {
+margin: auto;
+width: 1000px;
+min-height: 400px;
+}
+
+.content h1 {
+	color:#007E58;
+}
+
+.content p {
+	color: #146B03;
+}
+
+.content h2 {
+	color:#007E58;
+}
+
+footer {
+	background: #B6D0F7;
+	width: 100%;
+	height: 80px;
+}
+
+#doctor {
+	height: 260px;
+	text-align: right;
+	margin-right: 100px;
+}
+
+.content form {
+	margin:auto;
+	width: 410px;	
+}
+
+.content input {
+	float: right;
+}
+
+.content select {
+	float: right;
+}
+
+.content p {
+	height: 15px;
+}
+
+.content table {
+	border: 2px solid #0AFF00;
+	margin: auto;
+	text-align: center;
+	border-collapse: collapse;
+	min-width: 400px;
+}
+
+.content th {
+	border: 1px solid #0AFF00;
+	padding: 10px;
+}
+
+.content td {
+	border: 1px solid #0AFF00;
+	padding: 15px;
+	color: #447A94;
+}
+
+.content td form {
+	width: 100%;
+	height: 20px;
+}
+
+.content td input {
+width: 150px;
+}
+
+#table_info {
+	width: 150px;
+}
+
+#admin_a {
+	float: right;
+	color: aqua;
+	text-decoration: inherit;
+	border: 1px solid #ffff00;
+	border-radius: 5px;
+	padding: 5px;
+}
+
+#admin_a:hover {
+	color: #00AB03;
+}
+
+.index_admin {
+	background: #ccc;
+	width: 300px;
+	height: 140px;
+	margin: 100px auto;
+	border-radius: 10px;
+	padding: 20px;
+}
+
+.index_admin h2 {
+	padding: 0;
+	margin: 0;
+	text-align: center;
+}
+
+.index_admin input, select {
+	width: 200px;
+	float: right;
+}
+
+.cont {
+	margin: auto;
+	background: #ccc;
+	text-align: center;
+	border-radius: 10px;
+	padding-bottom: 10px;
+	font-size: 12px;
+	color: #000000;
+}
+
+.cont table {
+	margin: auto;
+	margin-top: 20px;
+	border-collapse: collapse;
+	border: 1px solid #0024FF;
+}
+
+.cont h3{
+	padding: 10px;
+}
+
+.cont th {
+	padding: 1px;
+	border: 1px solid #0024FF;
+}
+
+.cont td {
+	border: 1px solid #0024FF;
+}
